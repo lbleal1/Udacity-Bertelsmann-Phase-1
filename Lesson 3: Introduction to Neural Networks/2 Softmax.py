@@ -1,6 +1,11 @@
 import numpy as np
 
 '''
+Softmax Function is used for MultiClass Classification. 
+Recall that for binary classification, sigmoid function is used.
+
+*However, when n=2, given softmax, works actually the same as the sigmoid function.
+
 the formula for softmax is:
 P(class_i) = e^(Z_i)/(e^Z_1 + e^Z_2 + ... + e^Z_n)
 '''
