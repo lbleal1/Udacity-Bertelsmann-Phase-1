@@ -20,3 +20,15 @@ def cross_entropy(Y, P):
         result.append(-1*(Y[i]*np.log(P[i]) + (1-Y[i])*np.log(1-P[i])))
     CE = np.sum(result)
     return CE
+
+
+'''
+Udacity's solution which is cleaner
+
+import numpy as np
+
+def cross_entropy(Y, P):
+    Y = np.float_(Y)
+    P = np.float_(P)
+    return -np.sum(Y * np.log(P) + (1 - Y) * np.log(1 - P))
+'''
