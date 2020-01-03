@@ -8,7 +8,7 @@ The repository contains the exercises with discussions given by the course but i
 
 ## Phase 1: Challenge Course
 
-### [checkbox:checked] Lesson 3: Introduction to Neural Networks
+### -[x] Lesson 3: Introduction to Neural Networks
 ### Lesson 4: Talking PyTorch with Soumith 
 ### Lesson 5: 
 ### Lesson 6:
