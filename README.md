@@ -4,7 +4,7 @@ It's been my pleasure and honor to be one of the Udacity Bertelsmann Scholarship
 
 ![Scholarship Badge](/assets/scholarship-badge.png)
 
-The repository contains the exercises with discussions given by the course but it will also contain another folder for my own restructure of discussions and experimentations. 
+The repository contains the exercises with discussions given by the course but it will also contain another folder for my own restructure of discussions and experimentations. Also, I'll be publishing articles regarding what I've learned, ideally in each lesson below. Stay tune either at https://medium.com/@lbleal1 or https://towardsdatascience.com/@lbleal1. The earliest release would be this January. 
 
 ## Phase 1: Challenge Course
 ### :heavy_check_mark: Lesson 3: Introduction to Neural Networks
