@@ -8,6 +8,7 @@ The repository contains the exercises with discussions given by the course but i
 
 ## Phase 1: Challenge Course
 ### :heavy_check_mark: Lesson 3: Introduction to Neural Networks
+For this lesson, the article series are explained here: http://bit.ly/Intro_NeuralNets_Main. Article links will be up once I finishe each of them.
 ### :heavy_check_mark: Lesson 4: Talking PyTorch with Soumith 
 ### :white_check_mark: Lesson 5: Introduction to Pytorch
 ### :white_check_mark: Lesson 6: Convolutional Neural Networks
