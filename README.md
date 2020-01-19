@@ -43,23 +43,23 @@ See the notebooks in the Lesson 5 folder.
 - [x] 25. Notebook: Finding Edges
 - [x] 26. Convolutional Layer
 - [x] 27. Convolutional Layers (Part 2)
-- [ ] 28. Stride and Padding
-- [ ] 29. CNNs in PyTorch
-- [ ] 30. Pooling Layers
-- [ ] 31. Capsule Networks
-- [ ] 32. Notebook: Layer Visualization
-- [ ] 33. Increasing Depth
-- [ ] 34. CNNs for Image Classification
-- [ ] 35. Convolutional Layers in PyTorch
-- [ ] 36. Feature Vector
-- [ ] 37. CIFAR Classification Example
-- [ ] 38. Notebook: CNN Classification
-- [ ] 39. Image Augmentation
-- [ ] 40. Augmentation Using Transformations
-- [ ] 41. Groundbreaking CNN Architectures 
-- [ ] 42. Visualizing CNNs (Part 1)
-- [ ] 43. Visualizing CNNs (Part 2)
-- [ ] 44. Summary of CNNs
+- [x] 28. Stride and Padding
+- [x] 29. CNNs in PyTorch
+- [x] 30. Pooling Layers
+- [x] 31. Capsule Networks
+- [x] 32. Notebook: Layer Visualization
+- [x] 33. Increasing Depth
+- [x] 34. CNNs for Image Classification
+- [x] 35. Convolutional Layers in PyTorch
+- [x] 36. Feature Vector
+- [x] 37. CIFAR Classification Example
+- [x] 38. Notebook: CNN Classification
+- [x] 39. Image Augmentation
+- [x] 40. Augmentation Using Transformations
+- [x] 41. Groundbreaking CNN Architectures 
+- [x] 42. Visualizing CNNs (Part 1)
+- [x] 43. Visualizing CNNs (Part 2)
+- [x] 44. Summary of CNNs
 
 ### :white_check_mark: Lesson 7: Style Transfer
 
