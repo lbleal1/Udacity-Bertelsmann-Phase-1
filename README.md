@@ -62,20 +62,41 @@ See the notebooks in the Lesson 5 folder.
 - [x] 44. Summary of CNNs
 
 ### :white_check_mark: Lesson 7: Style Transfer
-- [ ] 1. Style Transfer
-- [ ] 2. Separating Style & Content
-- [ ] 3. VGG19 & Content Loss
-- [ ] 4. Gram Matrix
-- [ ] 5. Style Loss
-- [ ] 6. Loss Weights
-- [ ] 7. VGG Features
-- [ ] 8. Notebook: Style Transfer
-- [ ] 9. Features & Gram Matrix
-- [ ] 10. Gram Matrix Solution
-- [ ] 11. Defining the Loss
-- [ ] 12. Total Loss & Complete Solution
+- [x] 1. Style Transfer
+- [x] 2. Separating Style & Content
+- [x] 3. VGG19 & Content Loss
+- [x] 4. Gram Matrix
+- [x] 5. Style Loss
+- [x] 6. Loss Weights
+- [x] 7. VGG Features
+- [x] 8. Notebook: Style Transfer
+- [x] 9. Features & Gram Matrix
+- [x] 10. Gram Matrix Solution
+- [x] 11. Defining the Loss
+- [x] 12. Total Loss & Complete Solution
 
 ### :white_check_mark: Lesson 8: Recurrent Neural Networks
+- [ ] 1. Intro to RNNs
+- [ ] 2. RNN vs LSTM
+- [ ] 3. Basics of LSTM
+- [ ] 4. Architecture of LSTM
+- [ ] 5. The Learn Gate
+- [ ] 6. The Forget Gate
+- [ ] 7. The Remember Gate
+- [ ] 8. The Use Gate
+- [ ] 9. Putting it All Together
+- [ ] 10. Other Architectures
+- [ ] 11. Implementing RNNs
+- [ ] 12. Time-Series Prediction
+- [ ] 13. Training & Memory
+- [ ] 14. Character-wise RNNs
+- [ ] 15. Sequence Batching
+- [ ] 16. Notebook: Character-Level RNN
+- [ ] 17. Implementing a Char-RNN
+- [ ] 18. Batching Data, Solution
+- [ ] 19. Defining the Model
+- [ ] 20. Char-RNN, Solution
+- [ ] 21. Making Predictions
 
 ### :white_check_mark: Lesson 9: Sentiment Prediction RNNs
 
