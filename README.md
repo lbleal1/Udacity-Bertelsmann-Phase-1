@@ -76,8 +76,8 @@ See the notebooks in the Lesson 5 folder.
 - [x] 12. Total Loss & Complete Solution
 
 ### :white_check_mark: Lesson 8: Recurrent Neural Networks
-- [ ] 1. Intro to RNNs
-- [ ] 2. RNN vs LSTM
+- [x] 1. Intro to RNNs
+- [x] 2. RNN vs LSTM
 - [ ] 3. Basics of LSTM
 - [ ] 4. Architecture of LSTM
 - [ ] 5. The Learn Gate
