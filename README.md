@@ -15,7 +15,7 @@ For this lesson, the article series are explained here: http://bit.ly/Intro_Neur
 ### :heavy_check_mark: Lesson 5: Introduction to Pytorch
 See the notebooks in the Lesson 5 folder. 
 
-### :white_check_mark: Lesson 6: Convolutional Neural Networks
+### :heavy_check_mark: Lesson 6: Convolutional Neural Networks
 - [x] 1. Introducing Alexis
 - [x] 2. Applications of CNNs
 - [x] 3. Lesson Outline
@@ -61,7 +61,7 @@ See the notebooks in the Lesson 5 folder.
 - [x] 43. Visualizing CNNs (Part 2)
 - [x] 44. Summary of CNNs
 
-### :white_check_mark: Lesson 7: Style Transfer
+### :heavy_check_mark: Lesson 7: Style Transfer
 - [x] 1. Style Transfer
 - [x] 2. Separating Style & Content
 - [x] 3. VGG19 & Content Loss
@@ -75,7 +75,7 @@ See the notebooks in the Lesson 5 folder.
 - [x] 11. Defining the Loss
 - [x] 12. Total Loss & Complete Solution
 
-### :white_check_mark: Lesson 8: Recurrent Neural Networks
+### :heavy_check_mark: Lesson 8: Recurrent Neural Networks
 - [x] 1. Intro to RNNs
 - [x] 2. RNN vs LSTM
 - [x] 3. Basics of LSTM
@@ -98,7 +98,7 @@ See the notebooks in the Lesson 5 folder.
 - [x] 20. Char-RNN, Solution
 - [x] 21. Making Predictions
 
-### :white_check_mark: Lesson 9: Sentiment Prediction RNNs
+### :heavy_check_mark: Lesson 9: Sentiment Prediction RNNs
 - [x] 1. Sentiment Analysis RNNs
 - [x] 2. Notebook: Sentiment RNN
 - [x] 3. Data Pre-Processing
@@ -114,7 +114,7 @@ See the notebooks in the Lesson 5 folder.
 - [x] 13. Inference, Solution
 
 
-### :white_check_mark: Lesson 10: Deploying Pytorch Models
+### :heavy_check_mark: Lesson 10: Deploying Pytorch Models
 - [x] 1. Welcome!
 - [x] 2. Installing PyTorch 1.0
 - [x] 3. PyTorch for Production
