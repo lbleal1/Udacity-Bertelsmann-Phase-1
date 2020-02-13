@@ -115,11 +115,12 @@ See the notebooks in the Lesson 5 folder.
 
 
 ### :white_check_mark: Lesson 10: Deploying Pytorch Models
-- [ ] 1. Welcome!
-- [ ] 2. Installing PyTorch 1.0
-- [ ] 3. PyTorch for Production
-- [ ] 4. Torch Script & Tracing
-- [ ] 5. Annotations
-- [ ] 6. PyTorch C++ API
-- [ ] 7. Want to learn more?
+- [x] 1. Welcome!
+- [x] 2. Installing PyTorch 1.0
+- [x] 3. PyTorch for Production
+- [x] 4. Torch Script & Tracing
+- [x] 5. Annotations
+- [x] 6. PyTorch C++ API
+- [x] 7. Want to learn more?
+
 
